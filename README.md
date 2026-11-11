@@ -10,7 +10,7 @@
 
 ## ✨ A little about me
 
-Hey, I'm **Ajay M** — a **game designer, Unity developer, and UI/UX enthusiast**. I bring gameplay, visual design, and code together to turn ideas into interactive experiences.
+Hey, I'm **Ajay M** a **game designer, Unity developer, and UI/UX enthusiast**. I bring gameplay, visual design, and code together to turn ideas into interactive experiences.
 
 <table>
 <tr>
