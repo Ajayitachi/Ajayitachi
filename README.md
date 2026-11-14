@@ -26,6 +26,9 @@ A selection of my game experiments and design projects. Pick a project and take 
 
 <table>
 <tr>
+<td colspan="2" valign="top"><img src="https://img.shields.io/badge/LATEST%20%C2%B7%20UNITY%206%20GAME-16A34A?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="LATEST · UNITY 6 GAME" /><h3>🏓 Table Ping Pong</h3><p>A 3D table tennis game for desktop, mobile and the browser. Take on a six-opponent World Tour, play a Quick Match, or challenge a friend online with a join code. Swipe to serve, flick for curve balls.</p><a href="https://github.com/Ajayitachi/table-ping-pong"><b>Explore project →</b></a><br /><br /></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><img src="https://img.shields.io/badge/3D%20GAME-8B5CF6?style=for-the-badge&amp;logoColor=white" alt="3D GAME" /><h3>🧟 Zombie Shooting</h3><p>A 3D game project exploring zombie combat.</p><a href="https://github.com/Ajayitachi/ZombieShooting"><b>Explore project →</b></a><br /><br /></td>
 <td width="50%" valign="top"><img src="https://img.shields.io/badge/BROWSER%20GAME-0891B2?style=for-the-badge&amp;logoColor=white" alt="BROWSER GAME" /><h3>🎮 Zombie Survival</h3><p>HTML and JavaScript gameplay with visual and audio assets.</p><a href="https://github.com/Ajayitachi/Zombie-Survival"><b>Explore project →</b></a><br /><br /></td>
 </tr>
