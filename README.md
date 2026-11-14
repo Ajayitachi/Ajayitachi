@@ -5,6 +5,7 @@
 <p align="center">
 <a href="https://ajayitachi.github.io/"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&amp;logoColor=white" alt="Explore my portfolio" /></a>
 <a href="https://www.linkedin.com/in/ajay-m-itachi07"><img src="https://img.shields.io/badge/LET%27S%20CONNECT-0284C7?style=for-the-badge&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://ajayitachi.itch.io/"><img src="https://img.shields.io/badge/PLAY%20MY%20GAMES-FA5C5C?style=for-the-badge&amp;logo=itchdotio&amp;logoColor=white" alt="Play my games on itch.io" /></a>
 <a href="https://github.com/Ajayitachi?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20MY%20CODE-DB2777?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View my code" /></a>
 </p>
 
@@ -63,5 +64,5 @@ A selection of my game experiments and design projects. Pick a project and take 
 
 <h2 align="center">🌈 Great experiences start with a conversation.</h2>
 <p align="center">Into games, interactive worlds, or thoughtful design?<br />Explore my work and connect with me.</p>
-<p align="center"><a href="https://ajayitachi.github.io/"><b>Visit my portfolio ↗</b></a> &nbsp; ✦ &nbsp; <a href="https://www.linkedin.com/in/ajay-m-itachi07"><b>Find me on LinkedIn ↗</b></a></p>
+<p align="center"><a href="https://ajayitachi.github.io/"><b>Visit my portfolio ↗</b></a> &nbsp; ✦ &nbsp; <a href="https://ajayitachi.itch.io/"><b>Play my games on itch.io ↗</b></a> &nbsp; ✦ &nbsp; <a href="https://www.linkedin.com/in/ajay-m-itachi07"><b>Find me on LinkedIn ↗</b></a></p>
 <p align="center">🟣 &nbsp; 🔵 &nbsp; 🩵 &nbsp; 🟡 &nbsp; 🩷<br /><sub>Design with intention. Build with curiosity. Keep creating.</sub></p>
